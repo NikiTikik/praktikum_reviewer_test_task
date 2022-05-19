@@ -1,7 +1,6 @@
 import datetime as dt
 
 
-
 class Record:
     def __init__(self, amount, comment, date=''):
         self.amount = amount
